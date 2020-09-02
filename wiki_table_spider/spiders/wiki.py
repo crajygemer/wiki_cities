@@ -14,9 +14,15 @@ class WikiSpider(scrapy.Spider):
             city = tr.xpath('.//td[2]//text()').extract_first()
             state = tr.xpath('.//*[@class="flagicon"]/following-sibling::a/text()|'
                              './/*[@class="flagicon"]/following-sibling::text()').extract_first().strip()
+            estimate = tr.xpath('.//td[4]/text()').extract_first().strip()
+            census = tr.xpath('.//td[5]/text()').extract_first().strip()
+            change = tr.xpath('.//td[6]//span/text()').extract_first()
 
             yield {
                 "Rank": rank,
                 "City": city,
-                "State": state
+                "State": state,
+                "2019(Estimate)": estimate,
+                "2010(Census)": census,
+                "Change": change
             }
