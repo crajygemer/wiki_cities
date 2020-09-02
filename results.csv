@@ -1,0 +1,318 @@
+Rank,City,State,2019(Estimate),2010(Census),Change
+1,New York,New York,"8,336,817","8,175,133",+1.98%
+2,Los Angeles,California,"3,979,576","3,792,621",+4.93%
+3,Chicago,Illinois,"2,693,976","2,695,598",−0.06%
+4,Houston,Texas,"2,320,268","2,100,263",+10.48%
+5,Phoenix,Arizona,"1,680,992","1,445,632",+16.28%
+6,Philadelphia,Pennsylvania,"1,584,064","1,526,006",+3.80%
+7,San Antonio,Texas,"1,547,253","1,327,407",+16.56%
+8,San Diego,California,"1,423,851","1,307,402",+8.91%
+9,Dallas,Texas,"1,343,573","1,197,816",+12.17%
+10,San Jose,California,"1,021,795","945,942",+8.02%
+11,Austin,Texas,"978,908","790,390",+23.85%
+12,Jacksonville,Florida,"911,507","821,784",+10.92%
+13,Fort Worth,Texas,"909,585","741,206",+22.72%
+14,Columbus,Ohio,"898,553","787,033",+14.17%
+15,Charlotte,North Carolina,"885,708","731,424",+21.09%
+16,San Francisco,California,"881,549","805,235",+9.48%
+17,Indianapolis,Indiana,"876,384","820,445",+6.82%
+18,Seattle,Washington,"753,675","608,660",+23.83%
+19,Denver,Colorado,"727,211","600,158",+21.17%
+20,Washington,District of Columbia,"705,749","601,723",+17.29%
+21,Boston,Massachusetts,"692,600","617,594",+12.14%
+22,El Paso,Texas,"681,728","649,121",+5.02%
+23,Nashville,Tennessee,"670,820","601,222",+11.58%
+24,Detroit,Michigan,"670,031","713,777",−6.13%
+25,Oklahoma City,Oklahoma,"655,057","579,999",+12.94%
+26,Portland,Oregon,"654,741","583,776",+12.16%
+27,Las Vegas,Nevada,"651,319","583,756",+11.57%
+28,Memphis,Tennessee,"651,073","646,889",+0.65%
+29,Louisville,Kentucky,"617,638","597,337",+3.40%
+30,Baltimore,Maryland,"593,490","620,961",−4.42%
+31,Milwaukee,Wisconsin,"590,157","594,833",−0.79%
+32,Albuquerque,New Mexico,"560,513","545,852",+2.69%
+33,Tucson,Arizona,"548,073","520,116",+5.38%
+34,Fresno,California,"531,576","494,665",+7.46%
+35,Mesa,Arizona,"518,012","439,041",+17.99%
+36,Sacramento,California,"513,624","466,488",+10.10%
+37,Atlanta,Georgia,"506,811","420,003",+20.67%
+38,Kansas City,Missouri,"495,327","459,787",+7.73%
+39,Colorado Springs,Colorado,"478,221","416,427",+14.84%
+40,Omaha,Nebraska,"478,192","408,958",+16.93%
+41,Raleigh,North Carolina,"474,069","403,892",+17.38%
+42,Miami,Florida,"467,963","399,457",+17.15%
+43,Long Beach,California,"462,628","462,257",+0.08%
+44,Virginia Beach,Virginia,"449,974","437,994",+2.74%
+45,Oakland,California,"433,031","390,724",+10.83%
+46,Minneapolis,Minnesota,"429,606","382,578",+12.29%
+47,Tulsa,Oklahoma,"401,190","391,906",+2.37%
+48,Tampa,Florida,"399,700","335,709",+19.06%
+49,Arlington,Texas,"398,854","365,438",+9.14%
+50,New Orleans,Louisiana,"390,144","343,829",+13.47%
+51,Wichita,Kansas,"389,938","382,368",+1.98%
+52,Bakersfield,California,"384,145","347,483",+10.55%
+53,Cleveland,Ohio,"381,009","396,815",−3.98%
+54,Aurora,Colorado,"379,289","325,078",+16.68%
+55,Anaheim,California,"350,365","336,265",+4.19%
+56,Honolulu,Hawaii,"345,064","337,256",+2.32%
+57,Santa Ana,California,"332,318","324,528",+2.40%
+58,Riverside,California,"331,360","303,871",+9.05%
+59,Corpus Christi,Texas,"326,586","305,215",+7.00%
+60,Lexington,Kentucky,"323,152","295,803",+9.25%
+61,Henderson,Nevada,"320,189","257,729",+24.23%
+62,Stockton,California,"312,697","291,707",+7.20%
+63,Saint Paul,Minnesota,"308,096","285,068",+8.08%
+64,Cincinnati,Ohio,"303,940","296,943",+2.36%
+65,St. Louis,Missouri,"300,576","319,294",−5.86%
+66,Pittsburgh,Pennsylvania,"300,286","305,704",−1.77%
+67,Greensboro,North Carolina,"296,710","269,666",+10.03%
+68,Lincoln,Nebraska,"289,102","258,379",+11.89%
+69,Anchorage,Alaska,"288,000","291,826",−1.31%
+70,Plano,Texas,"287,677","259,841",+10.71%
+71,Orlando,Florida,"287,442","238,300",+20.62%
+72,Irvine,California,"287,401","212,375",+35.33%
+73,Newark,New Jersey,"282,011","277,140",+1.76%
+74,Durham,North Carolina,"278,993","228,330",+22.19%
+75,Chula Vista,California,"274,492","243,916",+12.54%
+76,Toledo,Ohio,"272,779","287,208",−5.02%
+77,Fort Wayne,Indiana,"270,402","253,691",+6.59%
+78,St. Petersburg,Florida,"265,351","244,769",+8.41%
+79,Laredo,Texas,"262,491","236,091",+11.18%
+80,Jersey City,New Jersey,"262,075","247,597",+5.85%
+81,Chandler,Arizona,"261,165","236,123",+10.61%
+82,Madison,Wisconsin,"259,680","233,209",+11.35%
+83,Lubbock,Texas,"258,862","229,573",+12.76%
+84,Scottsdale,Arizona,"258,069","217,385",+18.72%
+85,Reno,Nevada,"255,601","225,221",+13.49%
+86,Buffalo,New York,"255,284","261,310",−2.31%
+87,Gilbert,Arizona,"254,114","208,453",+21.90%
+88,Glendale,Arizona,"252,381","226,721",+11.32%
+89,North Las Vegas,Nevada,"251,974","216,961",+16.14%
+90,Winston–Salem,North Carolina,"247,945","229,617",+7.98%
+91,Chesapeake,Virginia,"244,835","222,209",+10.18%
+92,Norfolk,Virginia,"242,742","242,803",−0.03%
+93,Fremont,California,"241,110","214,089",+12.62%
+94,Garland,Texas,"239,928","226,876",+5.75%
+95,Irving,Texas,"239,798","216,290",+10.87%
+96,Hialeah,Florida,"233,339","224,669",+3.86%
+97,Richmond,Virginia,"230,436","204,214",+12.84%
+98,Boise,Idaho,"228,959","205,671",+11.32%
+99,Spokane,Washington,"222,081","208,916",+6.30%
+100,Baton Rouge,Louisiana,"220,236","229,493",−4.03%
+101,Tacoma,Washington,"217,827","198,397",+9.79%
+102,San Bernardino,California,"215,784","209,924",+2.79%
+103,Modesto,California,"215,196","201,165",+6.97%
+104,Fontana,California,"214,547","196,069",+9.42%
+105,Des Moines,Iowa,"214,237","203,433",+5.31%
+106,Moreno Valley,California,"213,055","193,365",+10.18%
+107,Santa Clarita,California,"212,979","176,320",+20.79%
+108,Fayetteville,North Carolina,"211,657","200,564",+5.53%
+109,Birmingham,Alabama,"209,403","212,237",−1.34%
+110,Oxnard,California,"208,881","197,899",+5.55%
+111,Rochester,New York,"205,695","210,565",−2.31%
+112,Port St. Lucie,Florida,"201,846","164,603",+22.63%
+113,Grand Rapids,Michigan,"201,013","188,040",+6.90%
+114,Huntsville,Alabama,"200,574","180,105",+11.37%
+115,Salt Lake City,Utah,"200,567","186,440",+7.58%
+116,Frisco,Texas,"200,490","116,989",+71.38%
+117,Yonkers,New York,"200,370","195,976",+2.24%
+118,Amarillo,Texas,"199,371","190,695",+4.55%
+119,Glendale,California,"199,303","191,719",+3.96%
+120,Huntington Beach,California,"199,223","189,992",+4.86%
+121,McKinney,Texas,"199,177","131,117",+51.91%
+122,Montgomery,Alabama,"198,525","205,764",−3.52%
+123,Augusta,Georgia,"197,888","195,844",+1.04%
+124,Aurora,Illinois,"197,757","197,899",−0.07%
+125,Akron,Ohio,"197,597","199,110",−0.76%
+126,Little Rock,Arkansas,"197,312","193,524",+1.96%
+127,Tempe,Arizona,"195,805","161,719",+21.08%
+128,Columbus,Georgia,"195,769","189,885",+3.10%
+129,Overland Park,Kansas,"195,494","173,372",+12.76%
+130,Grand Prairie,Texas,"194,543","175,396",+10.92%
+131,Tallahassee,Florida,"194,500","181,376",+7.24%
+132,Cape Coral,Florida,"194,495","154,305",+26.05%
+133,Mobile,Alabama,"188,720","195,111",−3.28%
+134,Knoxville,Tennessee,"187,603","178,874",+4.88%
+135,Shreveport,Louisiana,"187,112","199,311",−6.12%
+136,Worcester,Massachusetts,"185,428","181,045",+2.42%
+137,Ontario,California,"185,010","163,924",+12.86%
+138,Vancouver,Washington,"184,463","161,791",+14.01%
+139,Sioux Falls,South Dakota,"183,793","153,888",+19.43%
+140,Chattanooga,Tennessee,"182,799","167,674",+9.02%
+141,Brownsville,Texas,"182,781","175,023",+4.43%
+142,Fort Lauderdale,Florida,"182,437","165,521",+10.22%
+143,Providence,Rhode Island,"179,883","178,042",+1.03%
+144,Newport News,Virginia,"179,225","180,719",−0.83%
+145,Rancho Cucamonga,California,"177,603","165,269",+7.46%
+146,Santa Rosa,California,"176,753","167,815",+5.33%
+147,Peoria,Arizona,"175,961","154,065",+14.21%
+148,Oceanside,California,"175,742","167,086",+5.18%
+149,Elk Grove,California,"174,775","153,015",+14.22%
+150,Salem,Oregon,"174,365","154,637",+12.76%
+151,Pembroke Pines,Florida,"173,591","154,019",+12.71%
+152,Eugene,Oregon,"172,622","156,185",+10.52%
+153,Garden Grove,California,"171,644","170,883",+0.45%
+154,Cary,North Carolina,"170,282","135,234",+25.92%
+155,Fort Collins,Colorado,"170,243","143,986",+18.24%
+156,Corona,California,"169,868","152,374",+11.48%
+157,Springfield,Missouri,"167,882","159,498",+5.26%
+158,Jackson,Mississippi,"160,628","173,514",−7.43%
+159,Alexandria,Virginia,"159,428","139,966",+13.90%
+160,Hayward,California,"159,203","144,186",+10.42%
+161,Clarksville,Tennessee,"158,146","132,929",+18.97%
+162,Lakewood,Colorado,"157,935","142,980",+10.46%
+163,Lancaster,California,"157,601","156,633",+0.62%
+164,Salinas,California,"155,465","150,441",+3.34%
+165,Palmdale,California,"155,079","152,750",+1.52%
+166,Hollywood,Florida,"154,817","140,768",+9.98%
+167,Springfield,Massachusetts,"153,606","153,060",+0.36%
+168,Macon,Georgia,"153,159","91,351",+67.66%
+169,Kansas City,Kansas,"152,960","145,786",+4.92%
+170,Sunnyvale,California,"152,703","140,081",+9.01%
+171,Pomona,California,"151,691","149,058",+1.77%
+172,Killeen,Texas,"151,666","127,921",+18.56%
+173,Escondido,California,"151,625","143,911",+5.36%
+174,Pasadena,Texas,"151,227","149,043",+1.47%
+175,Naperville,Illinois,"148,449","141,853",+4.65%
+176,Bellevue,Washington,"148,164","122,363",+21.09%
+177,Joliet,Illinois,"147,344","147,433",−0.06%
+178,Murfreesboro,Tennessee,"146,900","108,755",+35.07%
+179,Midland,Texas,"146,038","111,147",+31.39%
+180,Rockford,Illinois,"145,609","152,871",−4.75%
+181,Paterson,New Jersey,"145,233","146,199",−0.66%
+182,Savannah,Georgia,"144,464","136,286",+6.00%
+183,Bridgeport,Connecticut,"144,399","144,229",+0.12%
+184,Torrance,California,"143,592","145,438",−1.27%
+185,McAllen,Texas,"143,268","129,877",+10.31%
+186,Syracuse,New York,"142,327","145,170",−1.96%
+187,Surprise,Arizona,"141,664","117,517",+20.55%
+188,Denton,Texas,"141,541","113,383",+24.83%
+189,Roseville,California,"141,500","118,788",+19.12%
+190,Thornton,Colorado,"141,464","118,772",+19.11%
+191,Miramar,Florida,"141,191","122,041",+15.69%
+192,Pasadena,California,"141,029","137,122",+2.85%
+193,Mesquite,Texas,"140,937","139,824",+0.80%
+194,Olathe,Kansas,"140,545","125,872",+11.66%
+195,Dayton,Ohio,"140,407","141,527",−0.79%
+196,Carrollton,Texas,"139,248","119,097",+16.92%
+197,Waco,Texas,"139,236","124,805",+11.56%
+198,Orange,California,"138,669","136,416",+1.65%
+199,Fullerton,California,"138,632","135,161",+2.57%
+200,Charleston,South Carolina,"137,566","120,083",+14.56%
+201,West Valley City,Utah,"135,248","129,480",+4.45%
+202,Visalia,California,"134,605","124,442",+8.17%
+203,Hampton,Virginia,"134,510","137,436",−2.13%
+204,Gainesville,Florida,"133,997","124,354",+7.75%
+205,Warren,Michigan,"133,943","134,056",−0.08%
+206,Coral Springs,Florida,"133,759","121,096",+10.46%
+207,Cedar Rapids,Iowa,"133,562","126,326",+5.73%
+208,Round Rock,Texas,"133,372","99,887",+33.52%
+209,Sterling Heights,Michigan,"132,438","129,699",+2.11%
+210,Kent,Washington,"132,319","92,411",+43.19%
+211,Columbia,South Carolina,"131,674","129,272",+1.86%
+212,Santa Clara,California,"130,365","116,468",+11.93%
+213,New Haven,Connecticut,"130,250","129,779",+0.36%
+214,Stamford,Connecticut,"129,638","122,643",+5.70%
+215,Concord,California,"129,295","122,067",+5.92%
+216,Elizabeth,New Jersey,"129,216","124,969",+3.40%
+217,Athens,Georgia,"126,913","115,452",+9.93%
+218,Thousand Oaks,California,"126,813","126,683",+0.10%
+219,Lafayette,Louisiana,"126,185","120,623",+4.61%
+220,Simi Valley,California,"125,613","124,237",+1.11%
+221,Topeka,Kansas,"125,310","127,473",−1.70%
+222,Norman,Oklahoma,"124,880","110,925",+12.58%
+223,Fargo,North Dakota,"124,662","105,549",+18.11%
+224,Wilmington,North Carolina,"123,744","106,476",+16.22%
+225,Abilene,Texas,"123,420","117,063",+5.43%
+226,Odessa,Texas,"123,334","99,940",+23.41%
+227,Columbia,Missouri,"123,195","108,500",+13.54%
+228,Pearland,Texas,"122,460","91,252",+34.20%
+229,Victorville,California,"122,385","115,903",+5.59%
+230,Hartford,Connecticut,"122,105","124,775",−2.14%
+231,Vallejo,California,"121,692","115,942",+4.96%
+232,Allentown,Pennsylvania,"121,442","118,032",+2.89%
+233,Berkeley,California,"121,363","112,580",+7.80%
+234,Richardson,Texas,"121,323","99,223",+22.27%
+235,Arvada,Colorado,"121,272","106,433",+13.94%
+236,Ann Arbor,Michigan,"119,980","113,934",+5.31%
+237,Rochester,Minnesota,"118,935","106,769",+11.39%
+238,Cambridge,Massachusetts,"118,927","105,162",+13.09%
+239,Sugar Land,Texas,"118,488","78,817",+50.33%
+240,Lansing,Michigan,"118,210","114,297",+3.42%
+241,Evansville,Indiana,"117,979","117,429",+0.47%
+242,College Station,Texas,"117,911","93,857",+25.63%
+243,Fairfield,California,"117,133","105,321",+11.22%
+244,Clearwater,Florida,"116,946","107,685",+8.60%
+245,Beaumont,Texas,"116,825","118,296",−1.24%
+246,Independence,Missouri,"116,672","116,830",−0.14%
+247,Provo,Utah,"116,618","112,488",+3.67%
+248,West Jordan,Utah,"116,480","103,712",+12.31%
+249,Murrieta,California,"116,223","103,466",+12.33%
+250,Palm Bay,Florida,"115,552","103,190",+11.98%
+251,El Monte,California,"115,487","113,475",+1.77%
+252,Carlsbad,California,"115,382","105,328",+9.55%
+, ,South Carolina,"97,471",,
+254,Temecula,California,"114,761","100,097",+14.65%
+255,Clovis,California,"114,584","95,631",+19.82%
+256,Springfield,Illinois,"114,230","116,250",−1.74%
+257,Meridian,Idaho,"114,161","75,092",+52.03%
+258,Westminster,Colorado,"113,166","106,114",+6.65%
+259,Costa Mesa,California,"113,003","109,960",+2.77%
+260,High Point,North Carolina,"112,791","104,371",+8.07%
+261,Manchester,New Hampshire,"112,673","109,565",+2.84%
+262,Pueblo,Colorado,"112,361","106,595",+5.41%
+263,Lakeland,Florida,"112,136","97,422",+15.10%
+264,Pompano Beach,Florida,"112,118","99,845",+12.29%
+265,West Palm Beach,Florida,"111,955","99,919",+12.05%
+266,Antioch,California,"111,502","102,372",+8.92%
+267,Everett,Washington,"111,475","103,019",+8.21%
+268,Downey,California,"111,126","111,772",−0.58%
+269,Lowell,Massachusetts,"110,997","106,519",+4.20%
+270,Centennial,Colorado,"110,937","100,377",+10.52%
+271,Elgin,Illinois,"110,849","108,188",+2.46%
+272,Richmond,California,"110,567","103,701",+6.62%
+273,Peoria,Illinois,"110,417","115,007",−3.99%
+274,Broken Arrow,Oklahoma,"110,198","98,850",+11.48%
+275,Miami Gardens,Florida,"110,001","107,167",+2.64%
+276,Billings,Montana,"109,577","104,170",+5.19%
+277,Jurupa Valley,California,"109,527",0,
+278,Sandy Springs,Georgia,"109,452","93,853",+16.62%
+279,Gresham,Oregon,"109,381","105,594",+3.59%
+280,Lewisville,Texas,"109,212","95,290",+14.61%
+281,Hillsboro,Oregon,"109,128","91,611",+19.12%
+282,Ventura,California,"109,106","106,433",+2.51%
+283,Greeley,Colorado,"108,649","92,889",+16.97%
+284,Inglewood,California,"108,151","109,673",−1.39%
+285,Waterbury,Connecticut,"107,568","110,366",−2.54%
+286,League City,Texas,"107,536","83,560",+28.69%
+287,Santa Maria,California,"107,263","99,553",+7.74%
+288,Tyler,Texas,"106,985","96,900",+10.41%
+289,Davie,Florida,"106,306","91,992",+15.56%
+290,Lakewood,New Jersey,"106,300","92,843",+14.49%
+291,Daly City,California,"106,280","101,123",+5.10%
+292,Boulder,Colorado,"105,673","97,385",+8.51%
+293,Allen,Texas,"105,623","84,246",+25.37%
+294,West Covina,California,"105,101","106,098",−0.94%
+295,Sparks,Nevada,"105,006","90,264",+16.33%
+296,Wichita Falls,Texas,"104,683","104,553",+0.12%
+297,Green Bay,Wisconsin,"104,578","104,057",+0.50%
+298,San Mateo,California,"104,430","97,207",+7.43%
+299,Norwalk,California,"103,949","105,549",−1.52%
+300,Rialto,California,"103,526","99,171",+4.39%
+301,Las Cruces,New Mexico,"103,432","97,618",+5.96%
+302,Chico,California,"103,301","86,187",+19.86%
+303,El Cajon,California,"102,708","99,478",+3.25%
+304,Burbank,California,"102,511","103,340",−0.80%
+305,South Bend,Indiana,"102,026","101,168",+0.85%
+306,Renton,Washington,"101,751","90,927",+11.90%
+307,Vista,California,"101,638","93,834",+8.32%
+308,Davenport,Iowa,"101,590","99,685",+1.91%
+309,Edinburg,Texas,"101,170","77,100",+31.22%
+310,Tuscaloosa,Alabama,"101,129","90,468",+11.78%
+311,Carmel,Indiana,"101,068","79,191",+27.63%
+312,Spokane Valley,Washington,"101,060","89,755",+12.60%
+313,San Angelo,Texas,"101,004","93,200",+8.37%
+314,Vacaville,California,"100,670","92,428",+8.92%
+315,Clinton,Michigan,"100,471","96,796",+3.80%
+316,Bend,Oregon,"100,421","76,639",+31.03%
+317,Woodbridge,New Jersey,"100,145","99,585",+0.56%
